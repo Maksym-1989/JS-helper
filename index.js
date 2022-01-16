@@ -1,1 +1,1 @@
-import "./src/eventListener.js";
+import "./src/addEventListener.js";
